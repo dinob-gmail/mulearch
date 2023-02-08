@@ -2,7 +2,7 @@
 
 ## Context
 
-[Provide context for the decision, including any constraints or requirements that influenced the decision.]
+Objectives are increase revenue and reduce cost
 
 ## Decision
 
